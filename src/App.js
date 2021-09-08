@@ -1,6 +1,3 @@
-import React, {useState, useEffect} from "react";
-import {Route, Switch, Link} from "react-router-dom"
-
 import AllPosts from "./pages/AllPosts";
 import SinglePost from "./pages/SinglePost";
 import Form from "./pages/Form";
